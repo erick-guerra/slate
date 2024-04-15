@@ -20,7 +20,7 @@
     "immutablejs-record-memoize": "^1.0.1",
     "is-empty": "^1.0.0",
     "is-plain-object": "^2.0.4",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.17",
     "type-of": "^2.0.1"
   },
   "peerDependencies": {
