@@ -20,13 +20,13 @@
         "@gitbook/slate-react": "^3.0.0",
         "@helpscout/stats": "^0.0.5",
         "emojis": "^1.0.10",
-        "emotion": "^9.2.4",
+        "emotion": "^11.0.0",
         "faker": "^3.1.0",
         "immutable": ">=4.0.0-rc.12",
         "react": "^16.8.4",
         "react-dom": "^16.8.4",
-        "react-emotion": "^9.2.4",
-        "react-hot-loader": "^4.6.3",
+        "react-emotion": "^10.0.0",
+        "react-hot-loader": "^4.13.1",
         "react-router-dom": "^4.3.1"
     },
     "version": "3.0.0"
